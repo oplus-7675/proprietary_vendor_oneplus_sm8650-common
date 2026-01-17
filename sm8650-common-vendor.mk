@@ -1335,12 +1335,10 @@ PRODUCT_PACKAGES += \
     libimscamera_jni \
     libimsmedia_jni \
     vendor.qti.ImsRtpService-V1-ndk \
-    vendor.qti.ImsRtpService-V2-ndk \
     vendor.qti.hardware.dpmaidlservice-V1-ndk \
     vendor.qti.hardware.dpmservice@1.0 \
     vendor.qti.ims.datachannelservice-V1-ndk \
     vendor.qti.ims.datachannelservice-V2-ndk \
-    vendor.qti.ims.datachannelservice-V3-ndk \
     vendor.qti.imsrtpservice@3.0 \
     vendor.qti.imsrtpservice@3.1 \
     lib-virtual-modem-protos \
